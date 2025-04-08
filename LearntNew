@@ -1,0 +1,4 @@
+1. .env file can be encrypted.
+  - Great for security as all passwords are in plaintext in this file. Encryption key length matters. While decrypting if force applied it will override the current .env file.
+
+2. 
