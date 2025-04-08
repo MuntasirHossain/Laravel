@@ -9,4 +9,4 @@ Artisan commands.
 
 4. maintainance mode can be set up with a bypass token. This is so awesome. Using the secret token maintainace mode can be bypassed.
 
-5.
+5. laravel cloud can be used for zero downtime deployment.
