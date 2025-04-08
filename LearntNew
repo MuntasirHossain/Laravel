@@ -7,7 +7,7 @@ users database can be changed based on subdomains. Also, mail driver can be temp
 3. configuration should be cached only in production as configuration changes frequently in development. If config is cached, .env will not be loaded during requests or
 Artisan commands.
 
-4. maintainance mode can be set up with a bypass token. This is so awesome. Using the secret token maintainace mode can be bypassed. In maintainance mode no queued jobs
-will be handled.
+4. maintainance mode can be set up with a bypass token. This is so awesome. Using the secret token maintainace mode can be bypassed. In maintainance mode no queued 
+jobs will be handled.
 
 5. laravel cloud can be used for zero downtime deployment.
