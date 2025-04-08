@@ -1,4 +1,7 @@
 1. .env file can be encrypted.
   - Great for security as all passwords are in plaintext in this file. Encryption key length matters. While decrypting if force applied it will override the current .env file.
 
-2. 
+2. configuration can be changed at runtime. This is a great feature. You can achieve a lot from this, like  "Multi-Tenant Application with Dynamic Database Connection",
+users database can be changed based on subdomains. Also, mail driver can be temporarily changed. A lot can be achieved.
+
+3. 
